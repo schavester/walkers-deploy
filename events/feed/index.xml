@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Upcoming Events &#8211; Save Walker&#039;s Cafe</title>
+	<atom:link href="/events/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 05 Jan 2022 06:44:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>Upcoming Cultural Heritage Commission Hearing</title>
+		<link>/event/chc-1-walkers-cafe/</link>
+					<comments>/event/chc-1-walkers-cafe/#respond</comments>
+		
+		<dc:creator><![CDATA[rss]]></dc:creator>
+		<pubDate>Thu, 20 Jan 2022 10:00:00 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=tribe_events&#038;p=43</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="et_pb_section et_pb_section_0 et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_0">
+				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p class="has-line-data" data-line-start="0" data-line-end="1">Thursday, January 20th @ 10am, the Cultural Heritage Commission will have a hearing a hearing to consider Walker’s Cafe for Historic Cultural Heritage designation.</p>
+<p class="has-line-data" data-line-start="2" data-line-end="3">The agenda will be available the morning of the 17th, and at that point this page will be updated with an idea of when the item (Walker’s nomination) will come before the commission-sometimes the hearings go well into the afternoon.</p>
+<p class="has-line-data" data-line-start="4" data-line-end="5">Also we will post details on how to log into the meeting via Zoom so you can give public comment.</p>
+<p class="has-line-data" data-line-start="6" data-line-end="7">Stay stay tuned and get <a href="/take-action/">invovled</a>!  <a href="https://www.change.org/p/save-walker-s-cafe">Sign the petition</a> &amp; <a href="https://savewalkerscafe.substack.com/">subscribe to the newsletter</a> to keep updated on the hearing and other details.</p></div>
+			</div><div class="et_pb_module et_pb_code et_pb_code_0">
+				
+				
+				
+			</div>
+			</div>
+				
+				
+			</div>
+				
+				
+			</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/event/chc-1-walkers-cafe/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
