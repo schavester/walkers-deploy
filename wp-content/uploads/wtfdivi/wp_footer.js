@@ -1,1 +1,1 @@
-jQuery(function($){});jQuery(function($){if(!$('#logo-text').length){$('#logo').after("<div id=\"db_title_and_tagline\"><h1 id=\"logo-text\">Save Walker&#039;s Cafe<\/h1><\/div>");}});
+jQuery(function($){});jQuery(function($){if(!$('#logo-text').length){$('#logo').after("<div id=\"db_title_and_tagline\"><h1 id=\"logo-text\">Save Walker&#039;s Cafe<\/h1><h5 id=\"logo-tagline\" class=\"logo-tagline\"><\/h5><\/div>");}});
