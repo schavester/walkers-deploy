@@ -1,1 +1,1 @@
-jQuery(function($){$('#et-info .et-social-icons').prependTo('#et-secondary-menu');$('#et-secondary-menu .et_duplicate_social_icons').remove();});jQuery(function($){});jQuery(function($){if(!$('#logo-text').length){$('#logo').after("<div id=\"db_title_and_tagline\"><h1 id=\"logo-text\">Save Walker&#039;s Cafe<\/h1><\/div>");}});
+jQuery(function($){});jQuery(function($){if(!$('#logo-text').length){$('#logo').after("<div id=\"db_title_and_tagline\"><h1 id=\"logo-text\">Save Walker&#039;s Cafe<\/h1><\/div>");}});
