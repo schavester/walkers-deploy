@@ -12,65 +12,12 @@
 	<atom:link href="/events/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Fri, 14 Jan 2022 20:00:16 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 29 Jan 2022 03:52:32 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.3</generator>
-	<item>
-		<title>Upcoming Cultural Heritage Commission Hearing</title>
-		<link>/event/chc-1-walkers-cafe/</link>
-					<comments>/event/chc-1-walkers-cafe/#respond</comments>
-		
-		<dc:creator><![CDATA[rss]]></dc:creator>
-		<pubDate>Thu, 20 Jan 2022 10:00:00 +0000</pubDate>
-				<guid isPermaLink="false">/?post_type=tribe_events&#038;p=43</guid>
-
-					<description><![CDATA[]]></description>
-										<content:encoded><![CDATA[<div class="et_pb_section et_pb_section_0 et_pb_with_background et_section_regular" >
-				
-				
-				
-				
-					<div class="et_pb_row et_pb_row_0">
-				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				<div class="et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light">
-				
-				
-				<div class="et_pb_text_inner"><p>On Thursday, January 20th, 2022 at 10 am, the Cultural Heritage Commission will have a hearing to consider Walker&rsquo;s Cafe for Historic-Cultural Monument (HCM) designation.</p>
-<p><a href="http://ens.lacity.org/pln/heritage/plnheritage1217157826_01202022.pdf">Agenda for January 20, 2022</a>. It is agenda item #7, and there is a good chance that it will be heard by 11am.</p>
-<p>We offer this guide for offering public comment on January 20, 2022:</p>
-<h2>Instructions for Presenting</h2>
-<p>Presenters should join the meeting using a computer via the below Zoom link and input the Meeting ID as follows:</p>
-<p data-line-start="10" data-line-end="11"><a title="https://planning-lacity-org.zoom.us/j/85754078253" href="https://planning-lacity-org.zoom.us/j/85754078253">https://planning-lacity-org.zoom.us/j/85754078253</a></p>
-<p>Meeting ID: <strong>857 5407 8253</strong></p>
-<p>Passcode: <strong>238324</strong></p>
-<p>The meeting agenda is available <a href="http://ens.lacity.org/pln/heritage/plnheritage1217157826_01202022.pdf">here</a>.</p>
-<h2>Instructions for Public Comments</h2>
-<p>Members of the public who wish to provide public comment will be able to listen or view the meeting via their phone or other electronic device. Each speaker&rsquo;s audio will be unmuted as they are called upon. Speakers are typically given 1-2 minutes to speak and at the end of the time limit, you will hear a buzzer sound or verbal indicator. Soon thereafter, your audio will again be muted.</p>
-<p>To comment on an agenda item online via Zoom, use the login information provided above for presenters. Following the Commission President calling the item, click the&ldquo;<strong><em>Raise Hand</em></strong>&rdquo; button at the bottom of your screen. Commission Office staff will call your name, if available, when it is your turn to speak. You will see a prompt stating, &ldquo;<strong><em>The Host would like to unmute you</em></strong>.&rdquo; Please click on &ldquo;<strong><em>Unmute</em></strong>.&rdquo;</p>
-<h3>If you would like to offer public comment over the phone, use the following information:</h3>
-<p>If you would like to offer public comment over the phone, use the following information: Call <strong>(213) 338-8477</strong> or <strong>(669) 900-9128</strong> and use <strong>Meeting ID: 857 5407 8253</strong> and then press <strong>#</strong>. Press # again when prompted for Participant ID. You may use passcode: <strong>238324</strong></p>
-<p>To comment on an agenda item, press *<strong>9</strong> to &#8220;<strong><em>raise your hand</em></strong>&#8221; virtually following the Commission President calling the item. Commission staff will call upon speakers using the last four digits of the phone number, if available.</p>
-<p class="bigger"><a href="https://www.change.org/p/save-walker-s-cafe">Sign the petition</a> &amp; <a href="https://savewalkerscafe.substack.com/">subscribe to the newsletter</a> to keep updated on the hearing and other details.</p></div>
-			</div>
-			</div>
-				
-				
-			</div>
-				
-				
-			</div>
-]]></content:encoded>
-					
-					<wfw:commentRss>/event/chc-1-walkers-cafe/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
