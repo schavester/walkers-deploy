@@ -45,14 +45,17 @@
                 })
             };
         }
-        if ( preloader == 1 ) {
-            var preloader_id = $('.accordion-preloader').attr('id');
+        var preloader_id = $('#' + accordion_id + ' .accordion-preloader').attr('id');
+        if ( preloader_id ) {
             $(document).ready(function() {
                 $('#' + preloader_id).animate({ opacity: 0, }, 500).remove();
                 $('#' + accordion_id).find('.ea-card').animate({ opacity: 1 }, 500);
             });
         }
-        $("#" + accordion_id + ' iframe').addClass('wp-ea-iframe').wrap("<div class='wp-easy-accordion-iframe-container'></div>");
+
+        if( $("#" + accordion_id + ' .wp-easy-accordion-iframe-container').length <= 1 ) {
+            $("#" + accordion_id + ' iframe').addClass('wp-ea-iframe').wrap("<div class='wp-easy-accordion-iframe-container'></div>");
+        }
 
     });
 })(jQuery);

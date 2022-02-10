@@ -3,6 +3,7 @@
 }
 
 #poststuff .eap_section_title,
+.editor-styles-wrapper h2.eap_section_title,
 .eap_section_title {
     font-size: 24px;
     font-weight: 400;
@@ -130,3 +131,7 @@
     width: 100%;
     height: 100%;
   }
+
+.sp-easy-accordion .ea-body .wp-audio-shortcode {
+    max-width: 100%;
+}
