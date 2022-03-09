@@ -9,7 +9,9 @@
     font-weight: 400;
     margin-bottom: 30px
 }
-
+.post-type-sp_easy_accordion #poststuff .eap_section_title{
+    padding: 0;
+}
 .sp-easy-accordion a:focus, .sp-easy-accordion a {
     box-shadow: none!important;
     outline: none
@@ -86,7 +88,7 @@
     font-size: 20px
 }
 
-.ea-youtube-wraper {
+.ea-youtube-wrapper {
     position: relative;
     padding-bottom: 56.25%;
     padding-top: 30px;
@@ -94,7 +96,7 @@
     overflow: hidden;
 }
 
-.ea-youtube-wraper iframe, .ea-youtube-wraper object, .ea-youtube-wraper embed {
+.ea-youtube-wrapper iframe, .ea-youtube-wrapper object, .ea-youtube-wrapper embed {
     position: absolute;
     top: 0;
     left: 0;
